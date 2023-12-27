@@ -46,6 +46,8 @@ return [
     'month_total' => 'Month Total',
     'monthly_quotas' => 'Monthly Quotas',
     'no_notes' => 'There is no notes.',
+    'no_permission' => 'You don\'t have permission.',
+    'no_title' => 'There is no title.',
     'not_approved' => 'Not Approved',
     'not_provided' => 'Not Provided',
     'notes' => 'Notes',
@@ -67,6 +69,7 @@ return [
     'select_project' => 'Select Project',
     'select_task' => 'Select Task',
     'select_template' => 'Select Template',
+    'set_to_day' => 'Set it to selected Day',
     'show_more' => 'Show More',
     'start_at' => 'Start At',
     'sunday' => 'Sunday',
@@ -90,5 +93,4 @@ return [
     'worked_time' => 'Worked Time',
     'year' => 'Year',
     'yellow' => 'Yellow',
-    'no_permission' => 'You don\'t have permission.',
 ];

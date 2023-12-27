@@ -46,6 +46,8 @@ return [
     'month_total' => 'Total lunar',
     'monthly_quotas' => 'Cote Lunare',
     'no_notes' => 'Nu sunt notiţe.',
+    'no_permission' => 'Nu ai permisiunea necesara.',
+    'no_title' => 'Nu există titlu.',
     'not_approved' => 'Neaprobat',
     'not_provided' => 'Nesetat',
     'notes' => 'Notiţe',
@@ -67,6 +69,7 @@ return [
     'select_project' => 'Selecteaza Proiect',
     'select_task' => 'Selecteaza Atribuţie',
     'select_template' => 'Selecteaza Șablon',
+    'set_to_day' => 'Setați-l la ziua selectată',
     'show_more' => 'Arata mai mult',
     'start_at' => 'Incepe la',
     'sunday' => 'Duminica',
@@ -90,5 +93,4 @@ return [
     'worked_time' => 'Timp de lucru',
     'year' => 'An',
     'yellow' => 'Galben',
-    'no_permission' => 'Nu ai permisiunea necesara.',
 ];
